@@ -1,0 +1,6 @@
+site_name: 清物自救指南
+nav:
+  - 首页: index.md
+
+theme:
+  name: material
